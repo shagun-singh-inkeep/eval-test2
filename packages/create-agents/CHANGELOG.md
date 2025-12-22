@@ -1,5 +1,23 @@
 # @inkeep/create-agents
 
+## 0.40.0
+
+### Minor Changes
+
+- e5172e2: remove unused dependencies, lint unused dependencies with Knip
+
+### Patch Changes
+
+- be0131e: user info for spans
+- 8b95949: context tracking in traces
+- b231869: set `compilerOptions.verbatimModuleSyntax: true` in all `tsconfig.json` files
+- Updated dependencies [be0131e]
+- Updated dependencies [e5172e2]
+- Updated dependencies [8b95949]
+- Updated dependencies [b231869]
+- Updated dependencies [178d5b1]
+  - @inkeep/agents-core@0.40.0
+
 ## 0.39.5
 
 ### Patch Changes
